@@ -8,3 +8,4 @@ pillow==11.1.0
 pycparser==2.22
 tinycss2==1.4.0
 webencodings==0.5.1
+tkinter
